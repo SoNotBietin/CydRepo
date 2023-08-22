@@ -1,4 +1,10 @@
-Date: Tue, 22 Aug 2023 20:03:00 +0000
+Archive: stable
+Component: main
+Origin: Your Repository Name
+Label: Your Repository Label
+Architecture: iphoneos-arm ipad-arm
+Codename: ios
+Version: 1.0
 MD5Sum:
  83d6cdf03051a609b9fd07f5b83c0cc8              392 Packages
  a9f28c40c409dae39b5e8022f2635a63              311 Packages.gz
