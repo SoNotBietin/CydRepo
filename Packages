@@ -1,0 +1,13 @@
+Package: com.leo.pycreator
+Version: 1.0
+Architecture: all
+Maintainer: Your Name <your.email@example.com>
+Filename: debs/example-package.deb
+Size: 1596
+MD5sum: a3b6638c5ef430e86dd7c7a81b32e8d7
+SHA1: bdb9a27f4ee21e0e04055aee9365e4a20b5f92ab
+SHA256: e3dbbf4455cc169aa6bdbee0514e3e31cdbefa3b6e3f2e1a4c3b6458bd3a087c
+Section: utils
+Priority: optional
+Description: "A description of your package"
+
