@@ -1,0 +1,1 @@
+{"name": "Example Package", "package": "com.example.package", "author": "Your Name", "description": "An example package.", "version": "1.0", "dependencies": "firmware (>= 11)", "section": "Tweaks"}
